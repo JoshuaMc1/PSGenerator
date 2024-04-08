@@ -1,6 +1,6 @@
-# SGenerator - Generador de Contraseñas
+# PSGenerator - Generador de Contraseñas
 
-SGenerator es una herramienta simple para generar contraseñas aleatorias con distintas personalizaciones.
+PSGenerator es una herramienta simple para generar contraseñas aleatorias con distintas personalizaciones.
 
 ## Características
 
@@ -31,4 +31,4 @@ Puedes personalizar la contraseña generada seleccionando las siguientes opcione
 
 Si seleccionas un tamaño de contraseña de 12 caracteres e incluyes mayúsculas, minúsculas, números y símbolos, la contraseña generada podría verse así: `A5#bRt!2Q9$p`.
 
-¡Diviértete generando contraseñas seguras con SGenerator!
+¡Diviértete generando contraseñas seguras con PSGenerator!
